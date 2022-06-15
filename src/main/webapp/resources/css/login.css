@@ -1,0 +1,35 @@
+#header {
+  background: DodgerBlue;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.ctn {
+    margin-top: 4%;
+}
+
+.card {
+    width: 25rem;
+}
+
+.heading {
+    margin-top: 10%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.error {
+    color:red;
+    margin-left: 10%;
+    font-size: 12px;
+}
+
+.forgotPass {
+    margin-left: 10%;
+}
+
+.log-btn {
+    width: 20rem;
+}
