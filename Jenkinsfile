@@ -4,7 +4,7 @@ agent any
 
 
 environment{
-mvnHome=tool name: 'Maven', type: 'maven'
+mvnHome=tool name: 'maven', type: 'maven'
 
 
 
