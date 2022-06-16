@@ -27,7 +27,7 @@ bat "${mvnCmd} clean package"
 
 stage("Running"){
 steps {
-bat "taskkill /F /PID 8852"
+bat "taskkill /F /PID 7020"
 
 
 bat "${mvnCmd} spring-boot:run"
